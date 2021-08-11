@@ -1,0 +1,217 @@
+PAPERS,DOMAIN,YEAR OF PUBLICATION
+"[1] M. Arvaneh, C. Guan, K. K. Ang and C. Quek, ""Optimizing the Channel Selection and Classification Accuracy in EEG-Based BCI,"" in IEEE Transactions on Biomedical Engineering",BCI,2011
+"[2] N. Rathipriya, S. Deepajothi and T. Rajendran, ""Classification of motor imagery ecog signals using support vector machine for brain computer interface,"" 2013 Fifth International Conference on Advanced Computing (ICoAC)",BCI,2013
+"[3] C. Guger, A. Schlogl, C. Neuper, D. Walterspacher, T. Strein and G. Pfurtscheller, ""Rapid prototyping of an EEG-based brain-computer interface (BCI),"" in IEEE Transactions on Neural Systems and Rehabilitation Engineering",BCI,2001
+"[4] Jones, Owen D. and Buckholtz, Joshua and Schall, Jeffrey D. and Marois, Rene, Brain Imaging for Legal Thinkers: A Guide for the Perplexed (December 20, 2009). Stanford Technology Law Review, Vol. 5, 2009, Vanderbilt Public Law Research Paper No. 10-09",Defence,2009
+"[5] Portnova, Galina V. and Atanov, Mikhail S., Age-Dependent Changes of the EEG Data: Comparative Study of Correlation Dimension D2, Spectral Analysis, Peak Alpha Frequency and Stability of Rhythms (May 31, 2016). International Journal of Innovative Research in Computer Science & Technology (IJIRCST), Volume 4, Issue 2, March - 2016",Medical,2016
+"[6] Rakhmatulin, Ildar, Progress in Neural Networks for EEG Signal Recognition in 2021 (March 30, 2021).",BCI,2021
+"[7] Feyissa, Anteneh & Worrell, Gregory & Lagerlund, Terrence. (2021). EEG and Epilepsy. ",Medical,2021
+"[8] Das, Yudhajit & Wang, Xinlong & Kota, Srinivas & Zhang, Rong & Liu, Hanli & Chalak, Lina. (2021). Neurovascular coupling (NVC) in newborns using processed EEG versus amplitude-EEG. ",Medical,2021
+"[9] Rubinos, Clio & Alkhachroum, Ayham & der-nigoghossian, Caroline & Claassen, Jan. (2020). Electroencephalogram Monitoring in Critical Care. Seminars in Neurology",Medical,2020
+"[10] J. Thiagarajan, Jayaraman & Rajan, Deepta & Katoch, Sameeksha & Spanias, Andreas. (2020). DDxNet: a deep learning model for automatic interpretation of electronic health records, electrocardiograms and electroencephalograms. Scientific Reports",Medical,2020
+"[11] TuerxunWaili, & Alshebly, Yousif & Sidek, Khairul & Md Johar, Md Gapar. (2020). Stress recognition using Electroencephalogram (EEG) signal. Journal of Physics: Conference Series",Medical,2020
+"[12] Cheemalapati, Surya & Gubanov, Michael & Vale, Michael & Pyayt, Anna. (2013). A real-time classification algorithm for emotion detection using portable EEG. Proceedings of the 2013 IEEE 14th International Conference on Information Reuse and Integration, IEEE IRI 2013.",Medical,2013
+"[13] Jun, G., & Smitha, K. G. (2016). EEG based stress level identification. 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC). ",Medical,2016
+"[14] Rahman, Tatiur & Ghosh, Apu & Shuvo, Md. Maruf Hossain. (2015). Mental Stress Recognition using K-Nearest Neighbor (KNN) Classifier on EEG Signals.",Medical,2015
+"[15] Waili, T & Md Johar, Md Gapar & Sidek, K. & Nor, N. & Yaacob, H. & Othman, M.. (2019). EEG Based Biometric Identification Using Correlation and MLPNN Models. International Journal of Online and Biomedical Engineering (iJOE).",Medical,2019
+"[16] Nath, Debarati & Uddin, Md & Rana, Muhammad Masud & Biswas, Protik & Wahed, Shabnam & Ahmad, Mohiuddin. (2015). Number recognition using salient features of beta rhythmic EEG signal.",Medical,2015
+"[17] Islam, Monira & Ahmed, Tazrin & Mostafa, Sheikh & Yusuf, Md.Salah Uddin & Ahmad, Mohiuddin. (2013). Human Emotion Recognition using Frequency & Statistical Measures of EEG Signal. 2013 International Conference on Informatics, Electronics and Vision, ",Medical,2013
+"[18] Hasan, Md & Ullah, S. M. & Sen Gupta, Shantanu & Ahmad, Mohiuddin. (2016). Drowsiness Detection for the Perfection of Brain Computer Interface Using Viola-jones Algorithm. ",BCI,2016
+"[19] Riheen, Manjurul Ahsan & Rahman, Md Wasiur & Hossain, A B M Aowlad. (2014). Selection of proper frequency band and compatible features for left and right hand movement from EEG signal analysis. 16th Int'l Conf. Computer and Information Technology,",ANN,2014
+"[20] Lakshan, Imasha & Wickramasinghe, Lumini & Disala, Sandaru & Chandrasegar, Smirithika & S. Haddela, Prasanna. (2019). Real Time Deception Detection for Criminal Investigation.",Defence,2019
+"[21] Edla, Damodar & Ansari, Md & Chaudhary, Nikhil & Dodia, Shubham. Classification of Facial Expressions from EEG signals using Wavelet Packet Transform and SVM for Wheelchair Control Operations. Procedia Computer Science.",Medical,2018
+"[22] Hossain, Md & Rahman, Md. (2013). Inter subject inconsistency measures of EEG data on the basis of correlation dimension. International Journal of Computer Science Engineering (IJCSE)",ANN,2013
+"[23] Mesquita, Victor & Filho, Florêncio & Rodrigues, Paulo. (2020). Detection of crossover points in detrended fluctuation analysis: An application to EEG signals of patients with epilepsy. Bioinformatics.",Medical,2020
+"[24] Azim, Md & Amin, Md & Haque, Shah & Ambia, Mir Nahidul & Shoeb, Md. (2010). Feature extraction of human sleep EEG signals using wavelet transform and Fourier transform.",Medical,2010
+"[25] Hasan, Md Junayed & Shon, Dongkoo & Im, Kichang & Choi, Hyun-Kyun & Yoo, Dae-Seung & Kim, Jongmyon. (2020). Sleep State Classification Using Power Spectral Density and Residual Neural Network with Multichannel EEG Signals. Applied Sciences.",Medical,2020
+"[26] Mursalin, Md & Zhang, Yuan & Chen, Yuehui & Chawla, Nitesh. (2017). Automated Epileptic Seizure Detection Using Improved Correlation-based Feature Selection with Random Forest Classifier. Neurocomputing. ",Medical,2017
+"[27] Ferdous, Nusrat & Aman, Sayeda & Imtiaz, Masudul & Kiber, Md. (2012). Differentiating Sleep and Awake EEG Signal.",Medical,2012
+"[28] Hasan, Md Junayed & Kim, Jongmyon. (2019). A Hybrid Feature Pool-Based Emotional Stress State Detection Algorithm Using EEG Signals. Brain Sciences.",Medical,2019
+"[29] Munyon Charles N. “Neuroethics of Non-primary Brain Computer Interface: Focus on Potential Military Applications” Journal=Frontiers in Neuroscience vol.12, 2018",Defence,2018
+"[30] Miranda RA, Casebeer WD, Hein AM, Judy JW, Krotkov EP, Laabs TL, Manzo JE, Pankratz KG, Pratt GA, Sanchez JC, Weber DJ, Wheeler TL, Ling GS. DARPA-funded efforts in the development of novel brain-computer interface technologies. J Neurosci Methods. ",BCI,2015
+"[31] Chandra, Sushil & Verma, Kundan & Sharma, Greeshma & Mittal, Alok & Jha, Devendra. (2015). EEG based cognitive workload classification during NASA MATB-II multitasking. International Journal of Cognitive Research in Science, Engineering and Education.",Cognitive,2015
+"[1] Maryam Butt, Golshah Naghdy, Fazel Naghdy, Geoffrey Murray, and Haiping Du, “Investigating Electrode Sites for Intention Detection During Robot Based Hand Movement Using EEG-BCI System”",Medical,2018
+"[2] A. Petrushin, J. Tessadori, G. Barresi and  L. S. Mattos, “Effect of a Click-Like Feedback on Motor Imagery in EEG-BCI and Eye-Tracking Hybrid Control for Telepresence”  2018 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)",BCI,2018
+"[3] P. Gaur, H. Gupta, A. Chowdhury, K. McCreadie, R. B. Pachori and H. Wang, ""A Sliding Window Common Spatial Pattern for Enhancing Motor Imagery Classification in EEG-BCI,"" in IEEE Transactions on Instrumentation and Measurement",BCI,2021
+"[4] M. Zhao, H. Gao, W. Wang and J. Qu, ""Research on Human-Computer Interaction Intention Recognition Based on EEG and Eye Movement,"" in IEEE Access",BCI,2020
+"[5] A. Sengupta, A. Tiwari and A. Routray, ""Analysis of cognitive fatigue using EEG parameters,"" 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",Medical,2017
+"[6] Z. Huang, X. Yang and Y. Li, ""Cognitive Training to Improve Problem Solving with EEG Headset,"" 2018 International Conference on Computational Science and Computational Intelligence (CSCI)",Cognitive,2018
+"[7] J. McBride, X. Zhao, N. Munro, Y. Jiang, C. Smith and G. Jicha, ""Scalp EEG signal reconstruction for detection of mild cognitive impairment and early Alzheimer's disease,"" 2013 Biomedical Sciences and Engineering Conference (BSEC)",Medical,2013
+"[8] B. Oltu, M. F. Ak?ahin and S. Kibaro?lu, ""Investigation of EEG Signal for Diagnosis of Mild Cognitive Impairment and Alzheimer's Disease,"" 2019 Medical Technologies Congress (TIPTEKNO)",Medical,2019
+"[9] S. Khatun, B. I. Morshed and G. M. Bidelman, ""A Single-Channel EEG-Based Approach to Detect Mild Cognitive Impairment via Speech-Evoked Brain Responses,"" in IEEE Transactions on Neural Systems and Rehabilitation Engineering",Medical,2019
+"[10] S. Hadiyoso, C. La Febry Andira Rose Cynthia, M. Tati Latifah E. R. and H. Zakaria, ""Early Detection of Mild Cognitive Impairment Using Quantitative Analysis of EEG Signals,"" 2019 2nd International Conference on Bioinformatics, BIoTechnology and Biomedical Engineering (BioMIC) - Bioinformatics and Biomedical Engineering, 2019",Medical,2019
+"[11] Y. Kim, N. Kwak and S. Lee, ""Classification of motor imagery for Ear-EEG based brain-computer interface,"" 2018 6th International Conference on Brain-Computer Interface (BCI), 2018",BCI,2018
+"[12] A. Jain, T. Choudhury, R. Singh and P. Kumar, ""EEG Signal Classification for Real- Time Neuro Marketing Applications,"" 2018 International Conference on Advances in Computing and Communication Engineering (ICACCE).",Neuro-Marketing,2018
+"[13] D. Anwar, A. Gupta, V. Naik and S. K. Sharma, ""Detecting meditation using a dry mono-electrode EEG sensor,"" 2017 9th International Conference on Communication Systems and Networks (COMSNETS)",Medical,2017
+"[14] H. N. Oon, A. Saidatul and Z. Ibrahim, ""Analysis on Non-Linear Features of Electroencephalogram (EEG) Signal for Neuromarketing Application,"" 2018 International Conference on Computational Approach in Smart Systems Design and Applications (ICASSDA)",Neuro-Marketing,2018
+"[15] A. Carrasquilla-Batista, K. Quirós-Espinoza and C. Gómez-Carrasquilla, ""An Internet of Things (IoT) application to control a wheelchair through EEG signal processing,"" 2017 International Symposium on Wearable Robotics and Rehabilitation (WeRob)",IoT,2017
+"[16] K. Abualsaud, A. Mohamed, T. Khattab, E. Yaacoub, M. Hasna and M. Guizani, ""Classification for Imperfect EEG Epileptic Seizure in IoT applications: A Comparative Study,"" 2018 14th International Wireless Communications & Mobile Computing Conference (IWCMC)",Medical,2018
+"[17] N. Borulkar, P. Pandey, C. Davda and J. Chettiar, ""Drowsiness Detection and Monitoring the Sleeping Pattern using Brainwaves Technology and IoT,"" 2018 2nd International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)",IoT,2018
+"[18] Y. Duan, Z. Li, X. Tao, Q. Li, S. Hu and J. Lu, ""EEG-Based Maritime Object Detection for IoT-Driven Surveillance Systems in Smart Ocean,"" in IEEE Internet of Things Journal",IoT,2020
+"[19] F. Samie, S. Paul, L. Bauer and J. Henkel, ""Highly efficient and accurate seizure prediction on constrained IoT devices,"" 2018 Design, Automation & Test in Europe Conference & Exhibition (DATE)",IoT,2018
+"[20] A. A. Abdellatif, M. G. Khafagy, A. Mohamed and C. Chiasserini, ""EEG-Based Transceiver Design With Data Decomposition for Healthcare IoT Applications,"" in IEEE Internet of Things Journal",IoT,2018
+"[21] E. De Buyser, E. De Coninck, B. Dhoedt and P. Simoens, ""Exploring the potential of combining smart glasses and consumer-grade EEG/EMG headsets for controlling IoT appliances in the smart home,"" 2nd IET International Conference on Technologies for Active and Assisted Living (TechAAL 2016)",IoT,2016
+"[22] S. U. Amin, M. S. Hossain, G. Muhammad, M. Alhussein and M. A. Rahman, ""Cognitive Smart Healthcare for Pathology Detection and Monitoring,"" in IEEE Access",Cognitive,2019
+"[23] M. E. Hassin and R. Khan, ""NeuroSpy: A low-cost portable IoT enabled EEG and ECG data processor,"" 2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST)",IoT,2021
+"[24] B. Jagadish, M. P. R. S. Kiran and P. Rajalakshmi, ""A novel system architecture for brain controlled IoT enabled environments,"" 2017 IEEE 19th International Conference on e-Health Networking, Applications and Services (Healthcom)",IoT,2017
+"[25] I. L. Olokodana, S. P. Mohanty and E. Kougianos, ""Krig-Detect: Exploring Alternative Kriging Methods for Real-Time Seizure Detection from EEG Signals,"" 2020 IEEE 6th World Forum on Internet of Things (WF-IoT)",IoT,2020
+"[26] M. Hosseini, D. Pompili, K. Elisevich and H. Soltanian-Zadeh, ""Optimized Deep Learning for EEG Big Data and Seizure Prediction BCI via Internet of Things,"" in IEEE Transactions on Big ",BCI,2017
+"[27] M. A. Sayeed, S. P. Mohanty, E. Kougianos and H. P. Zaveri, ""Neuro-Detect: A Machine Learning-Based Fast and Accurate Seizure Detection System in the IoMT,"" in IEEE Transactions on Consumer Electronics",Neuro-Marketing,2019
+"[28] M. Jiang et al., ""IoT-based remote facial expression monitoring system with sEMG signal,"" 2016 IEEE Sensors Applications Symposium (SAS)",IoT,2016
+"[29] R. Singh, T. Ahmed, A. Kumar Singh, P. Chanak and S. K. Singh, ""SeizSClas: An Efficient and Secure Internet-of-Things-Based EEG Classifier,"" in IEEE Internet of Things Journal, ",IoT,2021
+"[30] P. K. Yong and E. T. Wei Ho, ""Streaming brain and physiological signal acquisition system for IoT neuroscience application,"" 2016 IEEE EMBS Conference on Biomedical Engineering and Sciences (IECBES)",IoT,2016
+"[31] M. Muztoba, U. Gupta, T. Mustofa and U. Y. Ogras, ""Robust communication with IoT devices using wearable brain machine interfaces,"" 2015 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",IoT,2015
+"[32] H. Adeli, S. Ghosh-Dastidar and N. Dadmehr, ""A Wavelet-Chaos Methodology for Analysis of EEGs and EEG Subbands to Detect Seizure and Epilepsy,"" in IEEE Transactions on Biomedical Engineering",Medical,2007
+"[33] S. L. Kappel, M. L. Rank, H. O. Toft, M. Andersen and P. Kidmose, ""Dry-Contact Electrode Ear-EEG,"" in IEEE Transactions on Biomedical Engineering,",Medical,2019
+"[34] W. Kong, L. Wang, S. Xu, F. Babiloni and H. Chen, ""EEG Fingerprints: Phase Synchronization of EEG Signals as Biomarker for Subject Identification,"" in IEEE Access,",Medical,2019
+"[35] M. A. Riyadi, T. Prakoso, F. O. Whaillan, M. David Wahono and A. Hidayatno, ""Classification of EEG-based Brain Waves for Motor Imagery using Support Vector Machine,"" 2019 International Conference on Electrical Engineering and Computer Science (ICECOS)",Medical,2019
+"[36] D. Anwar, A. Gupta, V. Naik and S. K. Sharma, ""Detecting meditation using a dry mono-electrode EEG sensor,"" 2017 9th International Conference on Communication Systems and Networks (COMSNETS)",Medical,2017
+"[37] C. W. Yean et al., ""Analysis of The Distance Metrics of KNN Classifier for EEG Signal in Stroke Patients,"" 2018 International Conference on Computational Approach in Smart Systems Design and Applications (ICASSDA)",ANN,2018
+"[38] E. Habeeb, N. Ghazal and S. Majzoub, ""Behavior Analysis Tool for Autistic Children Using EEG Signals,"" 2019 Advances in Science and Engineering Technology International Conferences (ASET)",Medical,2019
+"[39] M. Wang, S. Abdelfattah, N. Moustafa and J. Hu, ""Deep Gaussian Mixture-Hidden Markov Model for Classification of EEG Signals,"" in IEEE Transactions on Emerging Topics in Computational Intelligence",Medical,2018
+"[40] H. Ullah, M. Uzair, A. Mahmood, M. Ullah, S. D. Khan and F. A. Cheikh, ""Internal Emotion Classification Using EEG Signal With Sparse Discriminative Ensemble,"" in IEEE Access",Medical,2019
+"[41] J. E. Le Douget, A. Fouad, M. Maskani Filali, J. Pyrzowski and M. Le Van Quyen, ""Surface and intracranial EEG spike detection based on discrete wavelet decomposition and random forest classification,"" 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",Medical,2017
+"[42] Y. -E. Lee and S. -W. Lee, ""Decoding Event-related Potential from Ear-EEG Signals based on Ensemble Convolutional Neural Networks in Ambulatory Environment,"" 2021 9th International Winter Conference on Brain-Computer Interface (BCI)",ANN,2021
+"[43] C. Tan, F. Sun, W. Zhang, S. Liu and C. Liu, ""Spatial and spectral features fusion for EEG classification during motor imagery in BCI,"" 2017 IEEE EMBS International Conference on Biomedical & Health Informatics (BHI)",BCI,2017
+"[44] C. Han and C. Im, ""EEG-based brain-computer interface for real-time communication of patients in completely locked-in state,"" 2018 6th International Conference on Brain-Computer Interface (BCI)",BCI,2018
+"[45] L. Zhang, ""EEG Signals Classification Using Machine Learning for The Identification and Diagnosis of Schizophrenia,"" 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",Medical,2019
+"[46] R. Schirrmeister, L. Gemein, K. Eggensperger, F. Hutter and T. Ball, ""Deep learning with convolutional neural networks for decoding and visualization of EEG pathology,"" 2017 IEEE Signal Processing in Medicine and Biology Symposium (SPMB)",Medical,2017
+"[47] A. Turnip, D. E. Kusumandari and D. S. Pamungkas, ""Drug Abuse Identification based EEG-P300 Amplitude and Latency with Fuzzy Logic Calssifier,"" 2018 International Conference on Applied Engineering (ICAE)",Medical,2018
+"[48] H. Zhou and G. Zhang, ""Motor Imagery EEG-based Control of Intelligent Wheelchair Using Deep Belief Network Coupled with OVO-CSP Algorithm,"" 2019 3rd International Conference on Data Science and Business Analytics (ICDSBA)",Medical,2019
+"[49] R. Alazrai, F. Alqasem, S. Alaarag, K. M. Ahmad Yousef and M. I. Daoud, ""A Bispectrum-based Approach for Detecting Deception using EEG Signals,"" 2018 IEEE 20th International Conference on e-Health Networking, Applications and Services (Healthcom)",Medical,2018
+"[50] M. Ma, L. Guo, K. Su and D. Liang, ""Classification of motor imagery EEG signals based on wavelet transform and sample entropy,"" 2017 IEEE 2nd Advanced Information Technology, Electronic and Automation Control Conference (IAEAC)",Defence,2017
+"[1] Yadava, M., Kumar, P., Saini, R. et al. Analysis of EEG signals and its application to neuromarketing. Multimed Tools Appl 76",Neuro-Marketing,2017
+"[2] Salience and choice: Neural correlates of shopping decisions Tim Ambler, Sven Braeutigam , John Stins, Steven Rose, Stephen Swithen ",Neuro-Marketing,2004
+[3] Brain Waves Predict Success of New Fashion Products: A Practical Application for the Footwear Retailing Industry,Neuro-Marketing,2015
+[4] Brain Responses to Movie Trailers Predict Individual Preferences for Movies and Their Population-Wide Commercial Success,Neuro-Marketing,2015
+"[5] V. Gandhi, G. Prasad, D. Coyle, L. Behera and T. M. McGinnity, ""Quantum Neural Network-Based EEG Filtering for a Brain–Computer Interface,"" in IEEE Transactions on Neural Networks and Learning Systems",BCI,2014
+"[6] Guibing Guo and Mohamed Elgendi, ""A New Recommender System for 3D E-Commerce: An EEG Based Approach,"" Journal of Advanced  Management Science",Neuro-Marketing,2013
+"[7] Rami N. Khushaba, Luke Greenacre, Sarath Kodagoda, Jordan Louviere, Sandra Burke, Gamini Dissanayake, “Choice modeling and the brain: A study on the Electroencephalogram (EEG) of preferences”, Expert Systems with Applications",ANN,2012
+"[8] Rami N. Khushaba, Chelsea Wise, Sarath Kodagoda, Jordan Louviere, Barbara E. Kahn, Claudia Townsend, Consumer neuroscience: Assessing the brain response to marketing stimuli using electroencephalogram (EEG) and eye tracking, Expert Systems with Applications ISSN 0957-4174",Neuro-Marketing,2012
+"[9] Morin, C. Neuromarketing: The New Science of Consumer Behavior. Soc 48, 131–135 (2011). ",Neuro-Marketing,2011
+"[10] M. Arvaneh, C. Guan, K. K. Ang and C. Quek, ""Optimizing the Channel Selection and Classification Accuracy in EEG-Based BCI,"" in IEEE Transactions on Biomedical Engineering",BCI,2011
+"[11]. Li Wang, Xiong Zhang, Xuefei Zhong, Yu Zhang, “Analysis and classification of speech imagery EEG for BCI”, Biomedical Signal Processing and Control,",Medical,2017
+"[12] Kerous, B., Skola, F. & Liarokapis, F. EEG-based BCI and video games: a progress report. Virtual Reality 22,",BCI,2018
+[13] Towards passive brain–computer interfaces: applying brain–computer interface technology to human–machine systems in general,BCI,2011
+"[14] Zhao, Q., Zhang, L. & Cichocki, A. EEG-based asynchronous BCI control of a car in 3D virtual reality environments. Chin. Sci. Bull. ",BCI,2009
+"[16] Y. Chae, J. Jeong and S. Jo, ""Toward Brain-Actuated Humanoid Robots: Asynchronous Direct Control Using an EEG-Based BCI,"" in IEEE Transactions on Robotics ",BCI,2012
+[18] Inter-subject transfer learning with an end-to-end deep convolutional neural network for EEG-based BCI Fatemeh Fahimi et al 2019 J. Neural Eng. ,BCI,2019
+"[19] Yuanqing Li, Chuanchu Wang, Haihong Zhang and Cuntai Guan, ""An EEG-based BCI system for 2D cursor control,"" 2008 IEEE International Joint Conference on Neural Networks (IEEE World Congress on Computational Intelligence)",BCI,2008
+"[21] “Applications of EEG indices for the quantification of human cognitive performance: A systematic review and bibliometric analysis” Ismail LE, Karwowski W (2020) Applications of EEG indices for the quantification of human cognitive performance: A systematic review and bibliometric analysis. PLOS ONE 15(12): e0242857",Cognitive,2020
+"[22] E. W. Anderson, K. C. Potter, L. E. Matzen, J. F. Shepherd, G. A. Preston, and C. T. Silva ""Using EEG to Study Cognitive Development"": Issues and Practices Bell MA, Cuevas K. Using EEG to Study Cognitive Development: Issues and Practices. J Cogn Dev. ",Cognitive,2012
+"[23] J. Satheesh Kumar, P. Bhuvaneswari, Analysis of Electroencephalography (EEG) Signals and Its Categorization–A Study, Procedia Engineering,",ANN,2012
+[24] A User Study of Visualization Effectiveness Using EEG and Cognitive Load,Cognitive,2011
+"[25] Using EEG to Study Cognitive Development: Issues and Practices Natalie H. Brito, William P. Fifer, Dima Amso, Rachel Barr, Martha Ann Bell, Susan Calkins, Albert Flynn, Hawley E. Montgomery-Downs, Lisa M. Oakes, John E. Richards, Larissa M. Samuelson, John Colombo. (2019) Beyond the Bayley: Neurocognitive Assessments of Development During Infancy and Toddlerhood. Developmental Neuropsychology",Cognitive,2019
+[26] The clinical use of quantitative EEG in cognitive disorders,Cognitive,2009
+"[27] EEG-Based Transceiver Design With Data Decomposition for Healthcare IoT Applications A. Abdellatif, M. G. Khafagy, A. Mohamed and C. Chiasserini, ""EEG-Based Transceiver Design With Data Decomposition for Healthcare IoT Applications,"" in IEEE Internet of Things Journal",Medical,2018
+"[28] Introducing Neuroberry, a platform for pervasive EEG signaling in the IoT domain. Evdokimos Konstantinidis, Nicola Conci, Giorgos Bamparopoulos, Efstathios Sidiropoulos, Francesco De Natale, and PanagIoTis Bamidis. 2015. Introducing Neuroberry, a platform for pervasive EEG signaling in the IoT domain. In Proceedings of the 5th EAI International Conference on Wireless Mobile Communication and Healthcare (MOBIHEALTH'15). ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering), Brussels, BEL, 166–169. ",IoT,2015
+"[29] A Prototype of EEG System for IoT Laport, F., Dapena, A., Castro, P. M., Vazquez-Araujo, F. J., & Iglesia, D. (2020). A Prototype of EEG System for IoT. International Journal of Neural Systems, 2050018-2050018.",IoT,2020
+[30] An EEG-Based Identity Authentication System with Audiovisual Paradigm in IoT,IoT,2019
+"Huang, Haiping; Hu, Linkang; Xiao, Fu; Du, Anming; Ye, Ning; He, Fan. 2019. ""An EEG-Based Identity Authentication System with Audiovisual Paradigm in IoT"" Sensors 19",IoT,2019
+"[31] Kurapa, A., Rathore, D., Edla, D.R. et al. A Hybrid Approach for Extracting EMG signals by Filtering EEG Data for IoT Applications for Immobile Persons. Wireless Pers Commun 114",IoT,2020
+"[32] K. Abualsaud, A. Mohamed, T. Khattab, E. Yaacoub, M. Hasna and M. Guizani, ""Classification for Imperfect EEG Epileptic Seizure in IoT applications: A Comparative Study,"" 2018 14th International Wireless Communications & Mobile Computing Conference (IWCMC), 2018,",Medical,2018
+"[33] Y. Duan, Z. Li, X. Tao, Q. Li, S. Hu and J. Lu, ""EEG-Based Maritime Object Detection for IoT-Driven Surveillance Systems in Smart Ocean,"" in IEEE Internet of Things Journal",IoT,2020
+"[34] Y. Duan, Z. Li, X. Tao, Q. Li, S. Hu and J. Lu, ""EEG-Based Maritime Object Detection for IoT-Driven Surveillance Systems in Smart Ocean,"" in IEEE Internet of Things Journal",IoT,2020
+[35] Exploring the Potential of Combining Smart Glasses and Consumer-grade EEG/EMG Headsets for Controlling IoT Appliances in the Smart Home,IoT,2016
+"[36] Alhussein, M., Muhammad, G., Hossain, M.S. et al. Cognitive IoT-Cloud Integration for Smart Healthcare: Case Study for Epileptic Seizure Detection and Monitoring. Mobile Netw Appl 23, 1624–1635",Cognitive,2018
+[37] EEG Signal and Feature Interaction Modeling-Based Eye Behavior Prediction Research,Defence,2020
+"[38] Choice modeling and the brain: A study on the Electroencephalogram (EEG) of preferences, Rami N. Khushaba, Luke Greenacre, Sarath Kodagoda, Jordan Louviere, Sandra Burke, Gamini Dissanayake,",ANN,2012
+"[39] Choice modeling and the brain: A study on the Electroencephalogram (EEG) of preferences,",ANN,2012
+"[40] A. Pap, S. Oniga and A. Alexan, ""Machine Learning EEG Data Analysis For eHealth IoT System,"" 2020 IEEE International Conference on Automation, Quality and Testing, Robotics (AQTR), 2020",medical,2020
+"[41] G. R. Müller-Putz et al., ""Towards non-invasive EEG-based arm/hand-control in users with spinal cord injury,"" 2017 5th International Winter Conference on Brain-Computer Interface (BCI)",Medical,2017
+"[42] S. Debener and M. G. Bleichner, ""Transparent electroencephalography? : Exploring ear-EEG for long-term, mobile electrophysiology,"" 2019 7th International Winter Conference on Brain-Computer Interface (BCI), 2019,",BCI,2019
+"[43] D. Mattia, L. Astolfi, J. Toppi, M. Petti, F. Pichiorri and F. Cincotti, ""Interfacing brain and computer in neurorehabilitation,"" 2016 4th International Winter Conference on Brain-Computer Interface (BCI), ",BCI,2016
+[44] Identification of Attention State for Menu-Selection using In-Ear EEG Recording,IoT,2017
+"D. Jeong, J. Jeong, Y. Chae and H. Choi, ""Identification of Attention State for Menu-Selection using In-Ear EEG Recording,"" 2017 5th International Winter Conference on Brain-Computer Interface (BCI), ",BCI,2017
+"[45] C. Guan, N. Robinson, V. S. Handiru and V. A. Prasad, ""Detecting and tracking multiple directional movements in EEG based BCI,"" 2017 5th International Winter Conference on Brain-Computer Interface (BCI)",BCI,2017
+"[46] Tezuka, T., Kumar, D., Singh, S. et al. Real-time, automatic, open-source sleep stage
+classification system using single EEG for mice.",Medical,2021
+"Somers, B., Long, C.J, Francart, T. EEG-based diagnostics of the auditory system using
+cochlear implant electrodes as sensors",Medical,2021
+"Kumarasinghe, K., Kasabov, Taylor, D. Brain-inspired spiking neural networks for
+decoding and understanding muscle activity and kinematics from
+electroencephalography signals during hand movements. EEG",Medical,2021
+"Shibata, S., Watanabe, T., Yukawa, Y. et al. Effects of transcranial static magnetic
+stimulation over the primary motor cortex on local and network spontaneous
+electroencephalogram oscillations. EEG",Medical,2021
+"Somers, B., Long, C.J. Francart, T. EEG-based diagnostics of the auditory system using
+cochlear implant electrodes as sensors",Medical,2021
+"Gómez, C., Arbeláez, P., Navarrete, M. et al. Automatic seizure detection based on
+imaged-EEG signals through fully convolutional networks.",Medical,2021
+"Kujala, M.V., Kauppi, JP., Törnqvist, H. et al. Time-resolved classification of dog
+brain signals reveals early processing of faces, species and emotion. EEG",Medical,2021
+"Kaiser, D., Nyga, K. Tracking cortical representations of facial attractiveness using
+time-resolved representational similarity analysis. EEG",Medical,2020
+"Demuru, M., Kalitzin, S., Zweiphenning, W. et al. The value of intra-operative
+electrographic biomarkers for tailoring during epilepsy surgery: from group-level
+to patient-level analysis.EEG",Medical,2020
+"Akter, M.S., Islam, M.R., Iimura, Y. et al. Multiband entropy-based feature-
+extraction method for automatic identification of epileptic focus based on high-
+frequency components in interictal iEEG.",Medical,2020
+"Damborská, A., Honzírková, E., Barteček, R. et al. Altered directed functional
+connectivity of the right amygdala in depression: high-density EEG study.",Medical,2020
+"Boran, E., Sarnthein, J., Krayenbühl, N. et al. High-frequency oscillations in scalp
+EEG mirror seizure frequency in pediatric focal epilepsy.",Medical,2019
+"Choi, J., Ku, B., You, Y.G. et al. Resting-state prefrontal EEG biomarkers in
+correlation with MMSE scores in elderly individuals",Medical,2019
+"Gupta, A., Bhushan, Behera, L. Short-term enhancement of cognitive functions
+and music: A three-channel model. EEG",Cognitive,2018
+"Tsai, FF., Fan, SZ., Cheng, HL. et al. Multi-timescale phase-amplitude couplings in
+transitions of anesthetic-induced unconsciousness, EEG",Medical,2019
+"Lauer, T., Cornelissen, T.H.W., Draschkow, D. et al. The role of scene summary
+statistics in object recognition,EEG",,2018
+"Gawlowska, M., Domagalik, A., Beldzik, E. et al. Dynamics of error-related activity in
+deterministic learning - an EEG and fMRI study",Medical,2018
+"Wang, R.W.Y., Chen, YC., Liu, IN. et al. Temporal and spectral EEG dynamics can be
+indicators of stealth placement",Medical,2018
+"Lewis, A.G., Schriefers, H., Bastiaansen, M. et al. Assessing the utility of frequency
+tagging for tracking memory-based reactivation of word representations.EEG",Medical,2018
+"Melnik, A., Hairston, W.D., Ferris, D.P. et al. EEG correlates of sensorimotor
+processing: independent components involved in sensory and motor
+processing.",Medical,2017
+"Wang, R., Chang, YC. Chuang, SW. EEG Spectral Dynamics of Video Commercials:
+Impact of the Narrative on the Branding Product Preference",Neuro-Marketing,2016
+"Tezuka, T., Kumar, D., Singh, S. et al. Real-time, automatic, open-source sleep stage
+classification system using single EEG for mice. Sci Rep 11, 11151 (2021).",Medical,2021
+"Somers, B., Long, C.J. &amp; Francart, T. EEG-based diagnostics of the auditory system using
+cochlear implant electrodes as sensors. Sci Rep 11, 5383 (2021).",Medical,2021
+"Kumarasinghe, K., Kasabov, N. &amp; Taylor, D. Brain-inspired spiking neural networks for
+decoding and understanding muscle activity and kinematics from
+electroencephalography signals during hand movements.EEG",Medical,2021
+"Shibata, S., Watanabe, T., Yukawa, Y. et al. Effects of transcranial static magnetic
+stimulation over the primary motor cortex on local and network spontaneous
+electroencephalogram oscillations. EEG",Medical,2021
+"Gómez, C., Arbeláez, P., Navarrete, M. et al. Automatic seizure detection based on
+imaged-EEG signals through fully convolutional networks. Sci Rep 10, 21833",Medical,2020
+"Kujala, M.V., Kauppi, JP., Törnqvist, H. et al. Time-resolved classification of dog
+brain signals reveals early processing of faces, species and emotion.EEG",Medical,2020
+"Kaiser, D., Nyga, K. Tracking cortical representations of facial attractiveness using
+time-resolved representational similarity analysis. EEG",Medical,2020
+"Demuru, M., Kalitzin, S., Zweiphenning, W. et al. The value of intra-operative
+electrographic biomarkers for tailoring during epilepsy surgery: from group-level
+to patient-level analysis. EEG",Medical,2020
+"Akter, M.S., Islam, M.R., Iimura, Y. et al. Multiband entropy-based feature-
+extraction method for automatic identification of epileptic focus based on high-
+frequency components in interictal iEEG. Sci Rep 10, 7044 ",Medical,2020
+"Damborská, A., Honzírková, E., Barteček, R. et al. Altered directed functional
+connectivity of the right amygdala in depression: high-density EEG study. Sci
+Rep 10, 4398 ",Medical,2020
+"Boran, E., Sarnthein, J., Krayenbühl, N. et al. High-frequency oscillations in scalp
+EEG mirror seizure frequency in pediatric focal epilepsy. Sci Rep 9, 16560 (2019).",Medical,2019
+"Choi, J., Ku, B., You, Y.G. et al. Resting-state prefrontal EEG biomarkers in
+correlation with MMSE scores in elderly individuals.",Medical,2019
+"Gupta, A., Bhushan, B.  Behera, L. Short-term enhancement of cognitive functions
+and music: A three-channel model. EEG",BCI,2018
+"Tsai, FF., Fan, SZ., Cheng, HL. et al. EEG Multi-timescale phase-amplitude couplings in
+transitions of anesthetic-induced unconsciousness. Sci Rep 9, 7815 ",Medical,2019
+"Lauer, T., Cornelissen, T.H.W., Draschkow, D. et al. The role of EEG scene summary
+statistics in object recognition. Sci Rep 8, 14666 ",Medical,2018
+"Gawlowska, M., Domagalik, A., Beldzik, E. et al. Dynamics of error-related activity in
+deterministic learning - an EEG and fMRI study. Sci Rep 8, 14617 (2018).",Medical,2018
+"Wang, R.W.Y., Chen, YC., Liu, IN. et al. Temporal and spectral EEG dynamics can be
+indicators of stealth placement. Sci Rep 8, 9117",Medical,2018
+"Melnik, A., Hairston, W.D., Ferris, D.P. et al. EEG correlates of sensorimotor
+processing: independent components involved in sensory and motor
+processing. Sci Rep 7, 4461",Medical,2017
+"Zich C, Debener S, Schweinitz C, Sterr A, Meekes J, Kranczioch C. High-Intensity Chronic Stroke Motor Imagery Neurofeedback Training at Home: Three Case Reports. Clin EEG Neurosci.",Medical,2017
+"A Survey On EEG Analysis Using Different Methodologies B. Indira Priyadarshini, Dr. D. Krishna Reddy Research Scholar, Professor Osmania University Chaitanya Bharathi Institute of Technology IJEDR ",Medical,2019
